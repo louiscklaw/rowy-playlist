@@ -1,0 +1,23 @@
+{
+  "projects": {
+    "default": "fir-tryout-f4e7a"
+  },
+  "targets": {
+    "fir-tryout-f4e7a": {
+      "hosting": {
+        "rowy-client-cms": [
+          "rowy-client-cms"
+        ],
+        "admin-cms": [
+          "admin-cms-7ca73"
+        ],
+        "rowy": [
+          "rowy-helloworld"
+        ],
+        "fir-tryout-f4e7a": [
+          "fir-tryout-f4e7a"
+        ]
+      }
+    }
+  }
+}
